@@ -113,6 +113,10 @@ Run the test again and we should be passing the first of our two tests. Use the 
 
 ### The `#introduction_with_language` Method
 
-Define a method, `#introduction_with_language` that takes in two arguments, `name` and `language` and outputs the phrase: `"Hi, my name is #{name} and I am learning to program in #{language}."
+Define a method, `#introduction_with_language` that takes in two arguments, `name` and `language` and outputs the phrase: `"Hi, my name is #{name} and I am learning to program in #{language}."`
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-method-arguments-lab/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-method-arguments-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Method Arguments Lab</p>
